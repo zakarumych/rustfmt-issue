@@ -1,7 +1,7 @@
 # rustfmt-issue
 Minimal reproduction of rustfmt issue
 
-# How to reproduce
+## How to reproduce
 
 Run
 ```
